@@ -1,5 +1,8 @@
-## Hi there 👋
+# Im a Software Engineer Student
+Who loves about Technology and Development
 
+This is my Certificate Example:
+[Certificate Start Progamming to Become Software Developer](https://www.dicoding.com/dicodingassets/coursecertificate/893a0a5dafffc8338251aaf7735cd502999d0a74/view)
 <!--
 **kresnaj/kresnaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
