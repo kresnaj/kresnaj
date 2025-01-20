@@ -1,12 +1,12 @@
 # Im a Software Engineer 
-🌱 I’m currently learning about Machine Learning.
+🌱 I’m currently learning about Machine Learning.<br>
 📫 How to reach me: [Email](joshuakresna13@gmail.com)
 
 This is my Certificate:
-[Certificate Start Progamming to Become Software Developer](https://www.dicoding.com/dicodingassets/coursecertificate/893a0a5dafffc8338251aaf7735cd502999d0a74/view)
-[Certificate Introduction to Programming Logic (Programming Logic 101)](https://www.dicoding.com/certificates/1OP82L698PQK)
-[Certificate Learn Basic of AI](https://www.dicoding.com/certificates/98XWEK009XM3)
-[Certificate Learn data visualization](https://www.dicoding.com/certificates/JLX19386GP72)
+- [Certificate Start Progamming to Become Software Developer](https://www.dicoding.com/dicodingassets/coursecertificate/893a0a5dafffc8338251aaf7735cd502999d0a74/view)
+- [Certificate Introduction to Programming Logic (Programming Logic 101)](https://www.dicoding.com/certificates/1OP82L698PQK)
+- [Certificate Learn Basic of AI](https://www.dicoding.com/certificates/98XWEK009XM3)
+- [Certificate Learn data visualization](https://www.dicoding.com/certificates/JLX19386GP72)
 
 Github Statistic
     <p align="left">
