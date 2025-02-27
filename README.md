@@ -9,14 +9,10 @@
 - DevOps: Fedora Linux (Daily Driver), Kali Linux for end-to-end security testing
 
 📫 Let's Connect!
-[Email Me](mailto:kusmonoj@gmail.com)
+Email: [jshkrsna@gmail.com](mailto:jshkrsna@gmail.com)
 
-Github Statistic
-    <p align="left">
-    <a href="https://github.com/kresnaj">
-      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    </a>
-    </p>
+Github Statistic <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kresnaj&show_icons=true&theme=radical)
 <!--
 **kresnaj/kresnaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
