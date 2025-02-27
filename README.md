@@ -8,8 +8,8 @@
 - Machine Learning & AI: sklearn, Kaggle Dataset Exploration
 - DevOps: Fedora Linux (Daily Driver), Kali Linux for end-to-end security testing
 
-📫 Let's Connect!
-Email: [jshkrsna@gmail.com](mailto:jshkrsna@gmail.com)
+📫 Let's Connect! <br>
+  Email: [jshkrsna@gmail.com](mailto:jshkrsna@gmail.com)
 
 Github Statistic <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kresnaj&show_icons=true&theme=radical)
