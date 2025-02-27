@@ -1,12 +1,14 @@
-# Im a Software Engineer 
-🌱 I’m currently learning about Machine Learning.<br>
-📫 How to reach me: [Email](joshuakresna13@gmail.com)
+# Hi there! I'm Joshua
+💻 Software Developer |  🚀 AI Enthusiast | 🎓 Passionate Learner
 
-This is my Certificate:
-- [Certificate Start Progamming to Become Software Developer](https://www.dicoding.com/dicodingassets/coursecertificate/893a0a5dafffc8338251aaf7735cd502999d0a74/view)
-- [Certificate Introduction to Programming Logic (Programming Logic 101)](https://www.dicoding.com/certificates/1OP82L698PQK)
-- [Certificate Learn Basic of AI](https://www.dicoding.com/certificates/98XWEK009XM3)
-- [Certificate Learn data visualization](https://www.dicoding.com/certificates/JLX19386GP72)
+🛠 Tech Stack:
+- Programming: Python, Java, C#, JavaScript
+- Web Development: React, Tailwind CSS, Node.js, Express.js
+- Database: MySQL, MongoDB
+- Machine Learning & AI: sklearn, Kaggle Dataset Exploration <br>
+
+📫 Let's Connect!
+[Email Me](mailto:kusmonoj@gmail.com)
 
 Github Statistic
     <p align="left">
@@ -18,7 +20,7 @@ Github Statistic
 **kresnaj/kresnaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+                    
 - 🔭 I’m currently working on ...
 
 - 👯 I’m looking to collaborate on ...
