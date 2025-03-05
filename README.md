@@ -6,7 +6,7 @@
 - Web Development: React, Tailwind CSS, Node.js, Express.js
 - Database: MySQL, MongoDB
 - Machine Learning & AI: sklearn, Kaggle Dataset Exploration
-- DevOps: Fedora Linux (Daily Driver), Kali Linux for end-to-end security testing
+- DevOps: Fedora Linux, Kali Linux for end-to-end security testing
 
 📫 Let's Connect! <br>
   Email: [jshkrsna@gmail.com](mailto:jshkrsna@gmail.com)
