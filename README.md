@@ -5,7 +5,7 @@
 - Programming: Python, Java, C#, JavaScript
 - Web Development: React, Tailwind CSS, Node.js, Express.js
 - Database: MySQL, MongoDB
-- Machine Learning & AI: sklearn, Kaggle Dataset Exploration
+- Machine Learning & AI: sklearn, TensorFlow, Kaggle Dataset Exploration
 - DevOps: Fedora Linux, Kali Linux for end-to-end security testing
 
 📫 Let's Connect! <br>
