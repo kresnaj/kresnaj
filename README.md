@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there!
 🚀 Website Developer and AI Enthusiast<br>🧭 likes to study AI technologies such as GenAI. LLM, AGI, and others
 
 
